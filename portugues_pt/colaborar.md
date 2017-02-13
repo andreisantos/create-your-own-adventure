@@ -36,3 +36,5 @@ Pensava numa forma de criar [emprego](emprego/criar_emprego.md) na minha terra n
 Iria passear na [Itália](italia/italia.md)
 
 Investiria no [saturnov](http://www.saturnov.com/) 
+
+Melhoraria um problema irritante no meu país, mas primeiro uma volta ao mundo para provar os melhores vinhos!
